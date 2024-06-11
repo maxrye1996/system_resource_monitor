@@ -1,6 +1,6 @@
-# system_resource_monitor
+# System Resource Monitor
 
-Monitors the system resources and logs them out every 30 seconds
+Monitors the system resources and logs them out periodically
 
 ## Setup
 
