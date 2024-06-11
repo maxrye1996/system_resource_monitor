@@ -1,0 +1,7 @@
+services:
+  resource_monitor:
+    container_name: resource_monitor
+    build:
+      context: ./
+      dockerfile: ./resource_monitor/Dockerfile
+    env_file: .env
